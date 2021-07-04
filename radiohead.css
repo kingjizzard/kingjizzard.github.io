@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Chivo-Light;
+    src: url('Chivo-Light.ttf');
+}
+
+@font-face {
+    font-family: Chivo-LightItalic;
+    src: url('Chivo-LightItalic.ttf');
+}
+
+.main{
+    position: absolute;
+}
+
+.headerradiohead {
+    position: absolute;
+    font-family: Chivo-Light;
+}
+
+.kingcrimsonheader { 
+    position: absolute;
+
+    font-family: Chivo-LightItalic;
+}
